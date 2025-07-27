@@ -19,7 +19,7 @@ School of Advanced Sciences & Languages (Mathematics Division),
 VIT Bhopal University,
 Kotri Kalan, Ashta, Indore Road, Bhopal, Madhya Pradesh 466114
 
-Email: sen.anupam123@gmail.com, anupamsen@vitbhopal.ac.in, anupam23@niser.ac.in
+Email: sen.anupam123@gmail.com, anupamsen@vitbhopal.ac.in
 
 
 Work Experience
