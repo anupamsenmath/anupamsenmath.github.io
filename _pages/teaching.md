@@ -8,7 +8,7 @@ author_profile: true
 <h3>Courses as Instructor at VIT Bhopal University</h3>
 
 * Probability, Statistics and Reliability (MAT3003): Fall Semester 2025-26
-* Applied Numerical Methods (MAT2003): Fall Semester 2024-25
+* Applied Numerical Methods (MAT2003): Fall Semester 2025-26
 * Transform Techniques and Difference Equations (MAT2005): Winter Semester 2024-25
 * Discrete Mathematics and Graph Theory (MAT2002): Winter Semester 2024-25
 * Applied Linear Algebra (MAT3002): Interim Semester 2024-25
