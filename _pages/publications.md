@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <h3>Journals</h3>
-10. Rahul Barthwal, Christian Rohde, and <b>Anupam Sen </b>, "[Existence and stability of the Riemann solutions for a
+10. Rahul Barthwal, Christian Rohde and <b>Anupam Sen </b>, "[Existence and stability of the Riemann solutions for a
 non-symmetric Keyfitz–Kranzer type model](https://doi.org/10.1088/1361-6544/ae4afc)", Nonlinearity 39 (2026): 035006 (IOP Publishing).
 9. Abhrojyoti Sen and <b>Anupam Sen </b>, "[Existence of global entropy solution for Eulerian droplet models and two-phase flow model with non-constant air velocity](https://link.springer.com/article/10.1007/s10884-023-10337-4)", Journal of Dynamics and Differential Equations 37 (2025): 1871-1915 (Springer).
 8. B. Chhatria, <b>Anupam Sen </b> and T. Raja Sekhar, "[Self-similar viscosity approach to the Riemann problem for a strictly hyperbolic system of conservation laws](https://doi.org/10.1002/mma.8969)", Mathematical Methods in the Applied Sciences 46 (6) (2023): 7265-7284 (Wiley).
