@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <h3>Journals</h3>
-11. Nidhi, Rahul Kumar Chaturvedi and <b>Anupam Sen </b>, "[The Riemann Problem and Stability of Solutions for a Four-Parameter Perturbation of the Simplified Magnetohydrodynamics Equations]([https://doi.org/10.1088/1361-6544/ae4afc](https://doi.org/10.1016/j.cnsns.2026.111044))", Communications in Nonlinear Science and Numerical Simulation (2026) (Elsevier).
+11. Nidhi, Rahul Kumar Chaturvedi and <b>Anupam Sen </b>, "[The Riemann Problem and Stability of Solutions for a Four-Parameter Perturbation of the Simplified Magnetohydrodynamics Equations](https://doi.org/10.1016/j.cnsns.2026.111044)", Communications in Nonlinear Science and Numerical Simulation (2026) (Elsevier).
 10. Rahul Barthwal, Christian Rohde and <b>Anupam Sen </b>, "[Existence and stability of the Riemann solutions for a
 non-symmetric Keyfitz–Kranzer type model](https://doi.org/10.1088/1361-6544/ae4afc)", Nonlinearity 39 (2026): 035006 (IOP Publishing).
 9. Abhrojyoti Sen and <b>Anupam Sen </b>, "[Existence of global entropy solution for Eulerian droplet models and two-phase flow model with non-constant air velocity](https://link.springer.com/article/10.1007/s10884-023-10337-4)", Journal of Dynamics and Differential Equations 37 (2025): 1871-1915 (Springer).
